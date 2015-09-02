@@ -2,7 +2,7 @@
 **the problem** Parent teacher conferences for each grade level and for each teacher are planned by a peice of paper. This makes it hard to keep track of the updates for parents and teachers.
 
 **the solution** An online signup that updates in real time and can have email reminder interaction
-_technologies to use_ Ruby, Rails, Sorcery, Javascript, Ajax, materalize
+_technologies to use_ Ruby, Rails, Sorcery, Javascript, Ajax, -materalize- may be better to go simpler with github framework
 **concerns for users**
 
 _parents_
@@ -26,12 +26,22 @@ https://github.com/atd/rails-scheduler
 https://rubygems.org/gems/rails-scheduler
 https://github.com/topfunky/calendar_helper
 
+**login**
+https://github.com/NoamB/sorcery
+http://railscasts.com/episodes/283-authentication-with-sorcery
+https://github.com/NoamB/sorcery/wiki/Simple-Password-Authentication
+
+*divise*
+http://www.gotealeaf.com/blog/how-to-use-devise-in-rails-for-authentication
+
 **testing**
 https://robots.thoughtbot.com/how-we-test-rails-applications
 
 **rails reading**
 http://railsapps.github.io/what-is-ruby-rails.html
 
+**materalize**
+http://materializecss.com/getting-started.html
 
 **features to have**
 Administrators that can see all teachers conference schedules and be able to edit all teachers
