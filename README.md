@@ -49,6 +49,9 @@ all administrators and teachers will have to log in for access
 parents can have a login but NOT REQUIRED
 
 **roles at play**
+
 Administrators _can be a teacher_ _can be a Parent_
+
 Teachers _can be a Parent_
+
 Parents
