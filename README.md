@@ -43,6 +43,9 @@ http://railsapps.github.io/what-is-ruby-rails.html
 **materalize**
 http://materializecss.com/getting-started.html
 
+**how sessions work**
+http://www.theodinproject.com/ruby-on-rails/sessions-cookies-and-authentication
+
 **features to have**
 Administrators that can see all teachers conference schedules and be able to edit all teachers
 Ability to print
