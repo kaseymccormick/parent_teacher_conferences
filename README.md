@@ -10,6 +10,7 @@ __parents__
 * see what time signed up for
 * reminded what time signed up for
 * change time signed up for
+
 __Teachers__
 * need to be able to see which students at what times
 * be able to block out times for lunch
